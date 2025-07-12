@@ -1,6 +1,6 @@
-function Bar(props) {
+function NavBar(props) {
     return(
-    <div className="bar">
+    <div className="NavBar">
         <button className="btn">something</button>
         <button className="btn">Resume</button>
         <button className="btn">Projects</button>
@@ -8,4 +8,4 @@ function Bar(props) {
     )
 }
 
-export default Bar;
+export default NavBar;
